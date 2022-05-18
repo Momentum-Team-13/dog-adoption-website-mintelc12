@@ -23,7 +23,12 @@ This page can be broken into three major sections: the header, the main part wit
 
 ### Section 1: the header
 
-This section has a background color, some padding, and a border on the bottom. Start by getting the text to show, then change the background and text colors. After that, you can add the padding and bottom border.
+This section has a background color, 
+some padding, 
+and a border on the bottom. 
+Start by getting the text to show, 
+then change the background and text colors. 
+After that, you can add the padding and bottom border.
 
 The background color is #004175 and the border color is #89DEEF.
 
