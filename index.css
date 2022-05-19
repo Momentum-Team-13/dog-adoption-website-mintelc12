@@ -61,35 +61,55 @@ img {
     font-size: 30px;
     height: 300px;
     
+    /* background-color: rgb(166, 169, 240) */
+    
 }
 .Donate {
     background: url(starter_files/images/donate.jpg);
+    background:
+        linear-gradient(
+            rgba(166, 169, 240, .45),
+            rgb(166, 169, 240, .45)
+        ),
+        url(starter_files/images/donate.jpg);
     text-align: center;
-    /* width: 100%; */
     flex: 1 1 auto;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     line-height: 250px;
+    /* background-color: rgb(166, 169, 240, .45) */
 
 }
 .Volunteer {
     background: url(starter_files/images/volunteer.jpg);
+    background:
+        linear-gradient(
+            rgba(166, 169, 240, .45),
+            rgb(166, 169, 240, .45)
+        ),
+        url(starter_files/images/volunteer.jpg);
     text-align: center;
-    /* width: 100%; */
     flex: 1 1 auto;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     line-height: 250px;
+    
 }
 .Our-location {
     background: url(starter_files/images/location.png);
+    background:
+        linear-gradient(
+            rgba(166, 169, 240, .45),
+            rgb(166, 169, 240, .45)
+        ),
+        url(starter_files/images/location.png);
     text-align: center;
-    /* width: 100%; */
     flex: 1 1 auto;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
     line-height: 250px;
+    
 }
