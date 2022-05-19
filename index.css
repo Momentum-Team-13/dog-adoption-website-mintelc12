@@ -16,13 +16,30 @@ body {
     font-size: 20px;
 }
 
+img { 
+    width: 100%;
+    height: auto;
+}
+
 .Traits {
     background-color: #89DEEF;
     padding: 4px;
     border-radius: 12px;
     border: transparent 2px;
+    font-size: 12px;
 }
 
-#row-1 {
+.flex-container-1 {
     display: flex;
+    justify-content: space-between;
+}
+
+.flex-container-2 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-container-3 {
+    display: flex;
+    justify-content: space-between;
 }
